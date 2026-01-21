@@ -227,7 +227,7 @@ function App() {
                 >
                   Immanuvel S
                   <span className="block text-xl font-normal text-cyan-300 sm:text-2xl lg:text-3xl">
-                    👉 Full Stack Software Developer
+                    👉 Full Stack Software Developer...
                   </span>
                 </h1>
               </div>
